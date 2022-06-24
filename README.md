@@ -1,1 +1,1 @@
-# Stock-markey-sentiment-analysis-and-prediction
+# Stock-market-sentiment-analysis-and-prediction
